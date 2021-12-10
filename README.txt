@@ -1,3 +1,7 @@
+simple file cacheing using core php.
+if the files are available in the cache folder within 5 minutes system will get data from cache otherwise call the API
+
+
 Final service : FetchData class is the final output
 NB :: PLEASE DELETE ALL CACHE FROM tmp/cache BEFORE RUNNING finalServiceTest.php
 
